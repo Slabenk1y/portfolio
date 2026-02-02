@@ -38,7 +38,7 @@
 ### Калькулятор
 - Описание: Простой консольный калькулятор
 - Технологии: Go
-- GitHub: [ссылка будет после добавления]
+- GitHub: https://github.com/Slabenk1y/portfolio/blob/main/calculator/README.md
 
 ---
 
