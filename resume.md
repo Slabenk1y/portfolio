@@ -13,7 +13,9 @@
 
 Цель
 
-Стать Junior Go Developer и работать над интересными проектами
+Стать Junior Go Developer и работать над интересными проектами, учусь с телефонаgit add .
+  git commit -m "..."
+    git push
 
 ---
 
